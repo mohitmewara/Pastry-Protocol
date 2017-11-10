@@ -1,21 +1,9 @@
-# Project3
+# Pastry-Protocol
 
-**TODO: Add description**
+**Description: The goal of this the project is to use Elixir and the actor model to implement the Pastry protocol and a simple object access service to prove its usefulness.**
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `project3` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:project3, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/project3](https://hexdocs.pm/project3).
+To run this program, the user should first install Elixir 1.5 or above. 
+Detailed desription of the program and running instructions can be found in Readme.pdf
 
