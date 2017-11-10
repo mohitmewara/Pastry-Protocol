@@ -1,13 +1,21 @@
-# Pastry-Protocol
-Implemented the Pastry protocol in Elixir using the actor model and a simple object access service to prove its usefulness.
+# Project3
 
-Project Execution Instructions:
+**TODO: Add description**
 
-For Pastry Protocol:
+## Installation
 
-mix escript.build
+If [available in Hex](https://hex.pm/docs/publish), the package can be installed
+by adding `project3` to your list of dependencies in `mix.exs`:
 
-./project3 numNodes numRequests
+```elixir
+def deps do
+  [
+    {:project3, "~> 0.1.0"}
+  ]
+end
+```
 
-- Where numnodes is the number of peers to be created in the peer to peer system
-- Where numRequests is the number of requests each peer must make
+Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
+and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
+be found at [https://hexdocs.pm/project3](https://hexdocs.pm/project3).
+
